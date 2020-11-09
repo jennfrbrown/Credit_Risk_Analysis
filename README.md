@@ -39,7 +39,7 @@ We found the following results from our different testings.
 - Recall: 0.60
 <img src = "https://github.com/jennfrbrown/Credit_Risk_Analysis/blob/main/ReadMe%20Images/SMOTEENN.png">
 
-### Easy Ensemble Classifier Algorithm
+### Easy Ensemble AdaBoost Classifier Algorithm
 - Accuracy Score: 0.93
 - Precision: 0.99
 - Recall: 0.94
@@ -47,4 +47,10 @@ We found the following results from our different testings.
 
 
 ## Summary: 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+The majority of our machine learning models did not perform particularly well.  
+
+The four resampling and logistic regression models had lower accuracy scores.
+
+Overall, the best model that was generated to predict the unbalanced classification problem of credit risk is the Easy Ensemble AdaBoost Classifier.  The Balanced Random Forest Classifier would be considered the second best as both had high precision, recall, and accuracy scores being near one, which is what we want in this prediction.  It is important to remember that when lending money, misclassifying a high-risk could result in a great loss then misclassifying a low-risk.  
+
+If recommending a model to use, I would recommend using the Easy Ensemble AdaBoost Classifier.  This model has the highest balanced accuracy score meaning it will capture most credit card risk cases.
