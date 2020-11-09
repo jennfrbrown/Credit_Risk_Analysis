@@ -51,6 +51,6 @@ The majority of our machine learning models did not perform particularly well.
 
 The four resampling and logistic regression models had lower accuracy scores.
 
-Overall, the best model that was generated to predict the unbalanced classification problem of credit risk is the Easy Ensemble AdaBoost Classifier.  The Balanced Random Forest Classifier would be considered the second best as both had high precision, recall, and accuracy scores being near one, which is what we want in this prediction.  It is important to remember that when lending money, misclassifying a high-risk could result in a great loss then misclassifying a low-risk.  
+Overall, the best model that was generated to predict the unbalanced classification problem of credit risk is the Easy Ensemble AdaBoost Classifier.  The Balanced Random Forest Classifier would be considered the second best as both had high precision, recall, and accuracy scores being near one.  When lending money, misclassifying a high-risk could result in a greater loss then misclassifying a low-risk.  
 
 If recommending a model to use, I would recommend using the Easy Ensemble AdaBoost Classifier.  This model has the highest balanced accuracy score meaning it will capture most credit card risk cases.
