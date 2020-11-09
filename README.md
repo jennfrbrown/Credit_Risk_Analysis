@@ -8,15 +8,21 @@ We found the following results from our different testings.
 
 ### Balanced Random Forest Classifier
 <img src = "https://github.com/jennfrbrown/Credit_Risk_Analysis/blob/main/ReadMe%20Images/Balance%20Random%20Forest%20Classifier.png">
-- Accuracy Score (r squared) = 0.79
-- Precision = 0.99
-- Recall = 0.87
+- Accuracy Score (r squared) = 0.79<br>
+- Precision = 0.99<br>
+- Recall = 0.87<br>
 
 ### Naive Random Oversampling
 <img src = "https://github.com/jennfrbrown/Credit_Risk_Analysis/blob/main/ReadMe%20Images/Naive%20Random%20Oversampling.png">
 - Accuracy Score:0.63
 - Precision: 0.99
 - Recall:0.68
+
+### SMOTE Oversampling
+
+- Accuracy Score: 0.65
+- Precision:  0.99
+- Recall: 0.63
 
 ## Summary: 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
