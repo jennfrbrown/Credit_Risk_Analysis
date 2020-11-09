@@ -12,6 +12,10 @@ We found the following results from our different testings.
 * Precision = 0.99<br>
 * Recall = 0.87
 
+### Naive Random Oversampling
+- Accuracy Score:0.63
+- Precision: 0.99
+- Recall:0.68
 
 ## Summary: 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
