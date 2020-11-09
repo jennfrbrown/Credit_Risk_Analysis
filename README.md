@@ -7,6 +7,7 @@ In this project, we are working with LendingClub, a peer-to-peer lending service
 We found the following results from our different testings.
 
 ### Balanced Random Forest Classifier
+<img src = "https://github.com/jennfrbrown/Credit_Risk_Analysis/blob/main/ReadMe%20Images/Balance%20Random%20Forest%20Classifier.png">
 - Accuracy Score (r squared) = 0.79
 - Precision = 0.99
 - Recall = 0.87
