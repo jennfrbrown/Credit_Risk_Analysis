@@ -13,6 +13,7 @@ We found the following results from our different testings.
 * Recall = 0.87
 
 ### Naive Random Oversampling
+<img src = "https://github.com/jennfrbrown/Credit_Risk_Analysis/blob/main/ReadMe%20Images/Naive%20Random%20Oversampling.png">
 - Accuracy Score:0.63
 - Precision: 0.99
 - Recall:0.68
