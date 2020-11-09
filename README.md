@@ -39,5 +39,12 @@ We found the following results from our different testings.
 - Recall: 0.60
 <img src = "https://github.com/jennfrbrown/Credit_Risk_Analysis/blob/main/ReadMe%20Images/SMOTEENN.png">
 
+### Easy Ensemble Classifier Algorithm
+- Accuracy Score: 0.93
+- Precision: 0.99
+- Recall: 0.94
+<img src = "https://github.com/jennfrbrown/Credit_Risk_Analysis/blob/main/ReadMe%20Images/Easy%20Ensemble.png">
+
+
 ## Summary: 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
